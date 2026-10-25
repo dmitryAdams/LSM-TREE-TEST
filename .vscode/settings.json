@@ -1,0 +1,54 @@
+{
+  // ===== Сборка =====
+  // ВАЖНО: должно совпадать с $out_dir в .latexmkrc
+  "latex-workshop.latex.outDir": "%DIR%/build",
+  "latex-workshop.latex.autoBuild.run": "onSave",      // "never" — если проект тяжёлый и хочется собирать вручную
+  "latex-workshop.latex.recipe.default": "first",
+
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": ["-synctex=1", "-interaction=nonstopmode", "-file-line-error",
+               "-pdf", "-outdir=%OUTDIR%", "%DOC%"],
+      "env": {}
+    },
+    {
+      "name": "latexmk-lualatex",
+      "command": "latexmk",
+      "args": ["-synctex=1", "-interaction=nonstopmode", "-file-line-error",
+               "-lualatex", "-outdir=%OUTDIR%", "%DOC%"],
+      "env": {}
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    { "name": "latexmk (pdfLaTeX)", "tools": ["latexmk"] },
+    { "name": "latexmk (LuaLaTeX)", "tools": ["latexmk-lualatex"] }
+  ],
+
+  // ===== PDF-просмотр =====
+  "latex-workshop.view.pdf.viewer": "tab",             // PDF во вкладке рядом с кодом
+  "latex-workshop.view.pdf.zoom": "page-width",
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "ctrl-click",
+
+  // ===== Форматирование и проверки =====
+  "latex-workshop.formatting.latex": "latexindent",
+  "latex-workshop.linting.chktex.enabled": false,      // включите, если хотите: шумный, но полезный
+
+  // ===== Редактор =====
+  "editor.unicodeHighlight.ambiguousCharacters": false, // иначе русские «а», «о», «с» подсвечиваются как «похожие на латинские»
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "[latex]": {
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": false
+  },
+
+  // ===== Не засорять поиск и слежение за файлами =====
+  "files.watcherExclude": { "**/build/**": true },
+  "search.exclude": { "**/build": true },
+
+  // ===== Орфография =====
+  "cSpell.language": "en,ru"
+}
