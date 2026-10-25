@@ -1,0 +1,62 @@
+\documentclass[12pt,a4paper]{article}
+
+% ---------- Кодировка и язык ----------
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+% ---------- Вёрстка ----------
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{indentfirst}
+\usepackage{setspace}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\onehalfspacing
+
+% ---------- Математика, графика, таблицы ----------
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+% ---------- Листинги кода ----------
+\usepackage{listings}
+\lstset{
+  basicstyle=\ttfamily\small,
+  breaklines=true,
+  frame=single,
+  numbers=left,
+  numberstyle=\tiny,
+  captionpos=b
+}
+
+% ---------- Ссылки ----------
+\usepackage[hidelinks]{hyperref}
+
+% ---------- Библиография ----------
+% Для оформления по ГОСТ можно заменить style=numeric на style=gost-numeric
+% (требуется пакет biblatex-gost).
+\usepackage[
+  backend=biber,
+  style=gost-numeric,
+  language=auto,     % язык берётся из поля langid каждой записи
+  autolang=other,    % корректная работа со смешанной (рус/англ) библиографией
+  sorting=none       % порядок источников: по первому упоминанию в тексте
+]{biblatex}
+\addbibresource{refs.bib}
+
+% ---------- Титул ----------
+\title{Отбор "LSM-дерево с нуля"}
+\author{Алексеев Дмитрий Викторович \\ \small БПМИ-253 / ФКН ВШЭ \\ \small \texttt{dmivikalekseev@edu.hse.ru}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\input{sections/01-introduction}
+
+\sectionbreak
+\printbibliography[title={Список литературы},heading=bibintoc]
+
+\end{document}
