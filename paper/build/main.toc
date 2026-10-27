@@ -9,16 +9,20 @@
 \babel@toc {russian}{}\relax 
 \contentsline {subsection}{\numberline {1.2}Чем вызван интерес}{3}{subsection.1.2}%
 \contentsline {section}{\numberline {2}Существующие LSM-деревья}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}LevelDB}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}RocksDB}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Apache Cassandra / ScyllaDB}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Apache HBase}{4}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}CockroachDB}{4}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}WiredTiger}{4}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Существующие Бенчмарки}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}YCSB}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}db\_bench}{4}{subsection.3.2}%
-\contentsline {section}{Список литературы}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {2.1}Политика слияния}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Some Well-Known Optimizations}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Фильтр Блюма}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Partitioning}{6}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}LevelDB}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}RocksDB}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Apache Cassandra / ScyllaDB}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Apache HBase}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}CockroachDB}{6}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}WiredTiger}{6}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Существующие Бенчмарки}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}YCSB}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}db\_bench}{6}{subsection.3.2}%
+\contentsline {section}{Список литературы}{7}{subsection.3.2}%
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 

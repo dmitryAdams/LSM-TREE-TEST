@@ -70,6 +70,89 @@
       \verb https://github.com/dmitryAdams/image_processor
       \endverb
     \endentry
+    \entry{luo2020lsm}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2d455b2efdd78e5b0bf126f66ba927f6}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f4629551fc0c133ef3a4f8604bedd06b}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{fullhash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{fullhashraw}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{bibnamehash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{authorbibnamehash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{authornamehash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{authorfullhash}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \strng{authorfullhashraw}{4adfec94a4731f3ce15da6ddda0cf9e0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{29}
+      \field{journaltitle}{The VLDB Journal}
+      \field{title}{LSM-based storage techniques: a survey: C. Luo, MJ Carey}
+      \field{year}{2020}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{393\bibrangedash 418}
+      \range{pages}{26}
+      \field{volume}{29}
+      \range{volume}{1}
+    \endentry
+    \entry{jagadish1997incremental}{inproceedings}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=b066a3797733e842759d55ee617b1671}{%
+           family={Jagadish},
+           familyi={J\bibinitperiod},
+           given={HV},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4cc454e59e4010aca436e0b18f3469c9}{%
+           family={Narayan},
+           familyi={N\bibinitperiod},
+           given={PPS},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a3313607a04cd9b1cd7cd971d687ccd9}{%
+           family={Seshadri},
+           familyi={S\bibinitperiod},
+           given={Sridhar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=61d6a2d7215571ff54eadda8d36a2d58}{%
+           family={Sudarshan},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=65c7c73fec7528cbd93a4dfd6293c749}{%
+           family={Kanneganti},
+           familyi={K\bibinitperiod},
+           given={Rama},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ResearchGate GmbH}%
+      }
+      \strng{authorbibnamehash}{5d4aac89a0de1f84be4d6c0093364184}
+      \strng{authornamehash}{5d4aac89a0de1f84be4d6c0093364184}
+      \strng{authorfullhash}{b48a10cc2b4bede65cce2847380cc06c}
+      \strng{authorfullhashraw}{b48a10cc2b4bede65cce2847380cc06c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{VLDB}
+      \field{title}{Incremental organization for data recording and warehousing}
+      \field{year}{1997}
+      \field{pages}{16\bibrangedash 25}
+      \range{pages}{10}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
