@@ -11,7 +11,11 @@
 \contentsline {section}{\numberline {2}Существующие LSM-деревья}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Политика слияния}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Some Well-Known Optimizations}{5}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Фильтр Блюма}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1}Фильтр Блюма и подобные}{5}{subsubsection.2.2.1}%
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
 \contentsline {subsubsection}{\numberline {2.2.2}Partitioning}{6}{subsubsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.3}LevelDB}{6}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}RocksDB}{6}{subsection.2.4}%
@@ -22,7 +26,13 @@
 \contentsline {section}{\numberline {3}Существующие Бенчмарки}{6}{section.3}%
 \contentsline {subsection}{\numberline {3.1}YCSB}{6}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}db\_bench}{6}{subsection.3.2}%
-\contentsline {section}{Список литературы}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Бенчмаркинг}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Тесты RocksDB}{6}{subsection.4.1}%
+\contentsline {section}{Список литературы}{7}{subsection.4.1}%
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 

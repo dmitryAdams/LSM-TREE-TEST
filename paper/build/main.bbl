@@ -153,6 +153,40 @@
       \field{pages}{16\bibrangedash 25}
       \range{pages}{10}
     \endentry
+    \entry{leveldbgit}{online}{}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{google/leveldb}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/google/leveldb
+      \endverb
+      \verb{url}
+      \verb https://github.com/google/leveldb
+      \endverb
+    \endentry
+    \entry{rocksdbgit}{online}{}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{facebook/rocksdb}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/facebook/rocksdb/
+      \endverb
+      \verb{url}
+      \verb https://github.com/facebook/rocksdb/
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
