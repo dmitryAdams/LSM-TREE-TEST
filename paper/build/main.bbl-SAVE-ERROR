@@ -187,6 +187,23 @@
       \verb https://github.com/facebook/rocksdb/
       \endverb
     \endentry
+    \entry{dbbench}{online}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Benchmarking tools}
+      \field{urlday}{28}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/meta/rocksdb/wiki/Benchmarking-tools
+      \endverb
+      \verb{url}
+      \verb https://github.com/meta/rocksdb/wiki/Benchmarking-tools
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

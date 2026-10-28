@@ -3545,6 +3545,7 @@
     <bcf:citekey order="7" intorder="1">luo2020lsm</bcf:citekey>
     <bcf:citekey order="8" intorder="1">leveldbgit</bcf:citekey>
     <bcf:citekey order="9" intorder="1">rocksdbgit</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">dbbench</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

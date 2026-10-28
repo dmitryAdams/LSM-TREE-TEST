@@ -1,15 +1,15 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'build/main.blg'
-[37] biber:342> INFO - === Ср окт 28, 2026, 23:27:55
-[48] Biber.pm:421> INFO - Reading 'build/main.bcf'
-[106] Biber.pm:1002> INFO - Found 7 citekeys in bib section 0
-[116] Biber.pm:4487> INFO - Processing section 0
-[121] Biber.pm:4678> INFO - Looking for bibtex file 'refs.bib' for section 0
-[122] bibtex.pm:1713> INFO - LaTeX decoding ...
-[126] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[156] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[156] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[156] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[156] Biber.pm:4313> INFO - No sort tailoring available for locale 'ru-RU'
-[162] bbl.pm:676> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
-[163] bbl.pm:779> INFO - Output to build/main.bbl
+[47] biber:342> INFO - === Чт окт 29, 2026, 01:11:41
+[58] Biber.pm:421> INFO - Reading 'build/main.bcf'
+[122] Biber.pm:1002> INFO - Found 8 citekeys in bib section 0
+[133] Biber.pm:4487> INFO - Processing section 0
+[139] Biber.pm:4678> INFO - Looking for bibtex file 'refs.bib' for section 0
+[139] bibtex.pm:1713> INFO - LaTeX decoding ...
+[144] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[174] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[174] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[174] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[174] Biber.pm:4313> INFO - No sort tailoring available for locale 'ru-RU'
+[180] bbl.pm:676> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[182] bbl.pm:779> INFO - Output to build/main.bbl

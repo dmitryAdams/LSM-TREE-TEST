@@ -1,2 +1,18 @@
 \subsection{Тесты RocksDB}
 
+\subsubsection{Пермонас записи}
+
+В данном подразделе проведём эксперименты по перфомансу записи в зависимости от способа организации SSTable и количества ядер предоставленных RocksDB. Сравнение проводится во встроенном в RocksDB бенчмарке db\_bench \cite{dbbench}. При следующих настройках: 
+
+
+\begin{lstlisting}[language=bash, numbers=none, upquote=true]
+$ "db_bench --benchmarks=fillrandom \
+            --num=100000000 \
+            --compaction_style=... \
+            --key_size=16 \
+            --value_size=984 \
+            --threads=..."
+
+\end{lstlisting}
+
+Где отличаются только количество потоков (от 1 до 8) и compaction\_style, =0 - реализует рассмотренную выше Leveling Merge Policy, а =1 - некоторая universal compaction, которая согласно документации RocksDB "иногда называется tiered", т.е. эта политика из выше рассмотренного семейства   
