@@ -204,6 +204,23 @@
       \verb https://github.com/meta/rocksdb/wiki/Benchmarking-tools
       \endverb
     \endentry
+    \entry{rocksdbwiki}{online}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{RocksDB - Wikipedia}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/RocksDB
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/RocksDB
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

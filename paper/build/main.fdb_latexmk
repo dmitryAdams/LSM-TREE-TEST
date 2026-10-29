@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1793225500.71801 "build/main.bcf" "build/main.bbl" "build/main" 1793225585.19248 0
-  "build/main.bcf" 1793225585.10763 155841 a6eae7a9a9aa34ba26abd2e5464ea9a1 "pdflatex"
+["biber build/main"] 1793271596.66684 "build/main.bcf" "build/main.bbl" "build/main" 1793272014.23463 0
+  "build/main.bcf" 1793272014.14772 155974 24e0ea8f0bf52a111c5c19f8ce23ae07 "pdflatex"
   "refs.bib" 1793221045.87578 2279 4276273e8f1182d44d232f9b05e18384 ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1793225584.07948 "/home/adams/LSM-TREE-TEST/paper/main.tex" "build/main.pdf" "main" 1793225585.19284 0
+["pdflatex"] 1793272013.02033 "/home/adams/LSM-TREE-TEST/paper/main.tex" "build/main.pdf" "main" 1793272014.23497 0
   "/etc/texmf/web2c/texmf.cnf" 1792928317.89562 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1792928886.51872 3308 eee81981029f67083258db36df06e523 ""
   "/home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1792934499.45578 3304 6a543c07045572737981351171e0505e ""
@@ -19,7 +19,7 @@
   "/home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1793118344.26088 3512 f3a56cfe95a159371df20f73d1eb107d ""
   "/home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1095.tfm" 1792928876.34639 1276 e8f51803ab84b07f08acd5c6da2228c8 ""
   "/home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1792928891.28002 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "/home/adams/LSM-TREE-TEST/paper/main.tex" 1793223687.23608 2096 acd5320e5fe1ddd904e55c0f6ba8b720 ""
+  "/home/adams/LSM-TREE-TEST/paper/main.tex" 1793270644.89977 2096 acd5320e5fe1ddd904e55c0f6ba8b720 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -156,20 +156,21 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1792928338 5541477 3118940318599480888143717dd32d64 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1792928422 3642486 a2e3ba3927adf98b63d94c8e3ae2ca8f ""
-  "build/main.aux" 1793225585.08163 5061 0366bb8e8174847fa6943bdcdff4faf2 "pdflatex"
-  "build/main.bbl" 1793225501.36983 6991 2cf8dc0b54fd9366f76047ed99140261 "biber build/main"
-  "build/main.out" 1793225585.10663 3544 cf2c515c62438103dee38e2b96dc40b4 "pdflatex"
-  "build/main.run.xml" 1793225585.10893 2563 f4c8f4eebc83d2be6d802e2f24a9e4d7 "pdflatex"
-  "build/main.toc" 1793225585.10893 2690 eec3e22471d389ece6380930b2867ad9 "pdflatex"
-  "main.tex" 1793223687.23608 2096 acd5320e5fe1ddd904e55c0f6ba8b720 ""
+  "build/main.aux" 1793272014.11672 5796 1be841fd7ad639052f41a343c5baee99 "pdflatex"
+  "build/main.bbl" 1793271597.23609 7513 fa5770a1e0178b43fee54f5d7ecd97be "biber build/main"
+  "build/main.out" 1793272014.14572 3544 cf2c515c62438103dee38e2b96dc40b4 "pdflatex"
+  "build/main.run.xml" 1793272014.1493 2563 f4c8f4eebc83d2be6d802e2f24a9e4d7 "pdflatex"
+  "build/main.toc" 1793272014.1493 2810 307ed12b9106fa0e85e72f107d6bad25 "pdflatex"
+  "figures/04-01-ops-p-s-10-7.pdf" 1793270965.66614 18854 2119e72fb05dc158ae3aef26b72ed819 ""
+  "main.tex" 1793270644.89977 2096 acd5320e5fe1ddd904e55c0f6ba8b720 ""
   "sections/01-introduction.tex" 1792942038.89896 2856 62d65126d69d3c2056e997940fafcc0c ""
-  "sections/02-01-merge-policy.tex" 1793218340.18298 3529 2f4539723abac80ac822b569602fe6aa ""
+  "sections/02-01-merge-policy.tex" 1793272011.74071 3539 af4425790c127af1c01eab09f1651da9 ""
   "sections/02-02-01-bloom-filter.tex" 1793218541.26268 3142 3ed6ea12b8db8c4b77ede0ac78bdab9f ""
   "sections/02-02-02-partitioning.tex" 1793218602.22593 73 34b917cddcf74a1b91ae5252773d8603 ""
   "sections/02-existing-lsm-trees.tex" 1793218597.7192 4067 665eb93d0ec353aba76aac7a4179db3e ""
   "sections/03-existing-benchmarks.tex" 1792950743.83845 98 eadbf8565cb93c9b0f10bff565d53a15 ""
-  "sections/04-01-RocksDB.tex" 1793223945.26109 1244 51d9559185d9238abd5ec62f1db206cc ""
-  "sections/04-99-vms.tex" 1793225583.99415 764 5696229856d81e1702d692fbfcdb2ff5 ""
+  "sections/04-01-RocksDB.tex" 1793271805.5215 3591 367bf8b4fb8ea918cf9b5eef3b962e17 ""
+  "sections/04-99-vms.tex" 1793271359.29407 792 a473af6540ee817b160440304c1bc6fa ""
   "sections/04-benchmarking.tex" 1793224974.98522 94 eefdc99ece67ea5bd9d5db02a015f706 ""
   (generated)
   "build/main.aux"

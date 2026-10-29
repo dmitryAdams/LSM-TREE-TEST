@@ -351,6 +351,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /home/adams/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm
+INPUT ./figures/04-01-ops-p-s-10-7.pdf
+INPUT ./figures/04-01-ops-p-s-10-7.pdf
+INPUT ./figures/04-01-ops-p-s-10-7.pdf
+INPUT ./figures/04-01-ops-p-s-10-7.pdf
+INPUT ./figures/04-01-ops-p-s-10-7.pdf
 INPUT ./sections/04-99-vms.tex
 INPUT ./sections/04-99-vms.tex
 INPUT ./sections/04-99-vms.tex

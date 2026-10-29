@@ -1,0 +1,17 @@
+Cores,Speed on write,opssec,mbps,series
+1, 13.772, 72609, 69.2,Level Merge Policy
+2, 23.443, 85310, 81.4,Level Merge Policy
+3, 34.545, 86793, 82.8,Level Merge Policy
+4, 42.480, 94142, 89.8,Level Merge Policy
+5, 49.045, 101878, 97.2,Level Merge Policy
+6, 58.094, 103273, 98.5,Level Merge Policy
+7, 64.006, 109315, 104.3,Level Merge Policy
+8, 75.795, 105495, 100.6,Level Merge Policy
+1, 10.847, 92189, 87.9,Tiering Merge Policy
+2, 20.870, 95827, 91.4,Tiering Merge Policy
+3, 29.811, 100512, 95.9,Tiering Merge Policy
+4, 36.092, 110757, 105.6,Tiering Merge Policy
+5, 44.144, 113235, 108.0,Tiering Merge Policy
+6, 52.885, 113441, 108.2,Tiering Merge Policy
+7, 58.440, 119412, 113.9,Tiering Merge Policy
+8, 75.795, 105495, 100.6,Tiering Merge Policy
