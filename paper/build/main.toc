@@ -33,8 +33,8 @@
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
-\contentsline {subsection}{\numberline {4.2}Использованные VM:}{7}{subsection.4.2}%
-\contentsline {section}{Список литературы}{9}{Item.4}%
+\contentsline {subsection}{\numberline {4.2}Использованные VM:}{8}{subsection.4.2}%
+\contentsline {section}{Список литературы}{10}{Item.4}%
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {russian}{}\relax 
